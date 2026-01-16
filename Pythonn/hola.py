@@ -1,0 +1,5 @@
+print("Bienvenido al Bootcamp de Python!")
+nombre = input("Por favor, ingresa tu nombre: ")
+edad = input("Por favor, ingresa tu edad: ")
+print(f"Hola, {nombre}! ¡Gracias por inscribirte!")
+print(f"Tienes {edad} años. ¡Vamos a aprender mucho juntos!")
